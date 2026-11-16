@@ -156,3 +156,11 @@ position: fixed;
     display: flex;
     justify-content: center;
 }
+
+
+@media (max-width: 710px) {
+    .imagen1 {
+        width: 500px;
+        height: 500px;
+    }
+}
