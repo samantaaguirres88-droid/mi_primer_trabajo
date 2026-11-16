@@ -156,3 +156,6 @@ position: fixed;
     display: flex;
     justify-content: center;
 }
+.imagen1{
+    @media (min-whit 500px)
+}
