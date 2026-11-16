@@ -157,5 +157,5 @@ position: fixed;
     justify-content: center;
 }
 .imagen1{
-    @media (min-whit 300px)
+    @media (min-whit 100px)
 }
